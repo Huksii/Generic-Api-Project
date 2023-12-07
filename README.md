@@ -11,13 +11,13 @@ Generic API Project demonstrates the use of Django to create an API using Generi
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/username/generic-api-project.git
+    git clone git@github.com:Huksii/Generic-Api-Project.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd generic-api-project
+    cd Generic-Api-Project
     ```
 
 3. Install dependencies:
