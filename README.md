@@ -48,7 +48,7 @@ The project includes several Generic Views for the model that can be used to per
 
 ## Contact the Author
 
-The project author, Marselle, is available on [Instagram](https://instagram.com/marselle.naz). Feel free to reach out to him for feedback, questions, or additional information.
+The project author, Yeraly, is available on [Telegram](https://t.me/YeralyyT). Feel free to reach out to him for feedback, questions, or additional information.
 
 ## License
 
